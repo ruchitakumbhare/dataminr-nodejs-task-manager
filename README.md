@@ -1,5 +1,4 @@
-# dataminr-nodejs-task-manager
-Tasks and TaskList manager : Node.js using nest
+# DataMinr Task Node.js
 ## Instructions to the Project
 - Used NodeJS Version : 16.x.x
 - Navigate to the project directory by
@@ -12,4 +11,3 @@ Tasks and TaskList manager : Node.js using nest
 3. run `npm run build`
 4. for Jest testcases : tests are covered in task.controller.spec.ts
 5. run `npm run test` or npm test -t task.controller.spec.ts
-6. 
