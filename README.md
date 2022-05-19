@@ -11,3 +11,5 @@
 3. run `npm run build`
 4. for Jest testcases : tests are covered in task.controller.spec.ts
 5. run `npm run test` or npm test -t task.controller.spec.ts
+
+Documentation will be available at http://localhost:3005/api/#/
